@@ -1,9 +1,135 @@
-[
+// Catfish list in .json file type.
   {
   "uid": "828568670862311424",
   "tag": "Samara Morgan#8483",
   "avatar": "78bd4f70e62ab88f29a9f2728fdc7234",
   "bot": false,
   "created_at": 1617914122803
-}
-  ]
+},
+
+{
+  "uid": "822965711558279208",
+  "tag": "Ccrystal#3119",
+  "avatar": "2143b3ba51ce5966804f6ebc60dedcff",
+  "bot": false,
+  "created_at": 1617961883690
+},
+{
+  "uid": "781891382277046332",
+  "tag": "Sorrow#1587",
+  "avatar": "d7b11f6bd19872d969e19bd69aa168c0",
+  "bot": false,
+  "created_at": 1617961907589
+},
+
+{
+  "uid": "822983925822652476",
+  "tag": "Tia#2874",
+  "avatar": "1d261d279119b99de4baf8fbb0daaedf",
+  "bot": false,
+  "created_at": 1617961927652
+},
+{
+  "uid": "789929113409945621",
+  "tag": "!Choinek<3#1461",
+  "avatar": "aff4316e96ba15c4174756f85f8abce1",
+  "bot": false,
+  "created_at": 1617961946854
+},
+{
+  "uid": "795023260889645069",
+  "tag": "...acke#5252",
+  "avatar": "3bfee95d8f2db936ad72dce371311f0a",
+  "bot": false,
+  "created_at": 1617961963775
+},
+
+{
+  "uid": "696695048238006344",
+  "tag": ".cheesy#9999",
+  "avatar": "950474d63c8c4d4a5d1242f20cb0a844",
+  "bot": false,
+  "created_at": 1617961982742
+},
+
+
+{
+  "uid": "647235824194158604",
+  "tag": "! Daddy#6560",
+  "avatar": "e71bfc81777c3db3298421676cc34ab8",
+  "bot": false,
+  "created_at": 1617962000751
+},
+
+{
+  "uid": "806688398752350289",
+  "tag": "DRQSuperior#1337",
+  "avatar": "a_252b88ac400d6c0644563117ab7c1af1",
+  "bot": false,
+  "created_at": 1617962014910
+},
+
+{
+  "uid": "462945375834341387",
+  "tag": "nikshaa#7936",
+  "avatar": "e6098254397fe46f878fceb9b5f14778",
+  "bot": false,
+  "created_at": 1617962031347
+},
+
+
+{
+  "uid": "806097554264555520",
+  "tag": "fearr#8989",
+  "avatar": "a_22b95322c60af3328674cb986ff30932",
+  "bot": false,
+  "created_at": 1617962049174
+},
+
+{
+  "uid": "790808111442952192",
+  "tag": "𝙰𝚒𝚖𝚋𝚘𝚝 ✞#0001",
+  "avatar": "a_b89ffd4965f92e3a991e2cd0bc13af6a",
+  "bot": false,
+  "created_at": 1617962072153
+},
+
+{
+  "uid": "745699762292129844",
+  "tag": "Relecent#0001",
+  "avatar": "7a49a09752f4fb3aebe2219371b1ede8",
+  "bot": false,
+  "created_at": 1617963031480
+},
+
+{
+  "uid": "768179932835872830",
+  "tag": "Majdinko_SK#3473",
+  "avatar": "89539434a5c16b3a920d62e7045ae8f6",
+  "bot": false,
+  "created_at": 1617963048066
+},
+{
+  "uid": "650042714234028056",
+  "tag": "Snwy.#0002",
+  "avatar": "a_1dee0994dc6db2b5728ca902b8a96ea0",
+  "bot": false,
+  "created_at": 1617963074184
+},
+{
+  "uid": "436463267813261322",
+  "tag": "Data#5413",
+  "avatar": "0a76704b99d6254001c453f3579841d5",
+  "bot": false,
+  "created_at": 1617963090294
+},
+{
+  "uid": "507614105436422144",
+  "tag": "! Reilly_Jr#8656",
+  "avatar": "34c845607f1895294dad996eccba09d0",
+  "bot": false,
+  "created_at": 1617963109116
+},
+
+
+
